@@ -1,0 +1,92 @@
+2023-02-04T16:10:46.523070+09:00 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
+2023-02-04T16:10:46.523206+09:00 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.32) initializing of server in progress as process 17
+2023-02-04T16:10:46.530243+09:00 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2023-02-04T16:10:46.541377+09:00 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-02-04T16:10:47.707537+09:00 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-02-04T16:10:48.493399+09:00 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2023-02-04T16:10:54.288084+09:00 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
+2023-02-04T16:10:54.297182+09:00 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.32) starting as process 60
+2023-02-04T16:10:54.307177+09:00 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2023-02-04T16:10:54.333182+09:00 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-02-04T16:10:54.896532+09:00 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-02-04T16:10:55.412268+09:00 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-02-04T16:10:55.412549+09:00 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-02-04T16:10:55.475694+09:00 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: /var/run/mysqld/mysqlx.sock
+2023-02-04T16:10:55.475743+09:00 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.32'  socket: '/var/lib/mysql/mysql.sock'  port: 0  MySQL Community Server - GPL.
+2023-02-04T16:10:58.678189+09:00 14 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.32).
+2023-02-04T16:10:59.923507+09:00 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.32)  MySQL Community Server - GPL.
+2023-02-04T16:11:00.957702+09:00 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
+2023-02-04T16:11:00.967099+09:00 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.32) starting as process 1
+2023-02-04T16:11:00.973359+09:00 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2023-02-04T16:11:00.984606+09:00 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-02-04T16:11:01.519813+09:00 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-02-04T16:11:01.883796+09:00 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-02-04T16:11:01.884000+09:00 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-02-04T16:11:01.959305+09:00 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060, socket: /var/run/mysqld/mysqlx.sock
+2023-02-04T16:11:01.959359+09:00 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.32'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2023-02-04T16:12:27.969407+09:00 0 [System] [MY-013172] [Server] Received SHUTDOWN from user <via user signal>. Shutting down mysqld (Version: 8.0.32).
+2023-02-04T16:12:29.557120+09:00 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.32)  MySQL Community Server - GPL.
+2023-02-04T16:12:31.675858+09:00 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
+2023-02-04T16:12:31.679631+09:00 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.32) starting as process 1
+2023-02-04T16:12:31.685076+09:00 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2023-02-04T16:12:31.698097+09:00 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-02-04T16:12:32.313218+09:00 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-02-04T16:12:32.681515+09:00 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-02-04T16:12:32.681764+09:00 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-02-04T16:12:32.754575+09:00 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060, socket: /var/run/mysqld/mysqlx.sock
+2023-02-04T16:12:32.754770+09:00 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.32'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2023-02-04T16:25:49.831060+09:00 0 [System] [MY-013172] [Server] Received SHUTDOWN from user <via user signal>. Shutting down mysqld (Version: 8.0.32).
+2023-02-04T16:25:50.906928+09:00 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.32)  MySQL Community Server - GPL.
+2023-02-04T16:26:48.788605+09:00 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
+2023-02-04T16:26:48.792713+09:00 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.32) starting as process 1
+2023-02-04T16:26:48.798643+09:00 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2023-02-04T16:26:48.810838+09:00 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-02-04T16:26:49.432739+09:00 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-02-04T16:26:49.754805+09:00 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-02-04T16:26:49.755040+09:00 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-02-04T16:26:49.907567+09:00 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060, socket: /var/run/mysqld/mysqlx.sock
+2023-02-04T16:26:49.907602+09:00 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.32'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2023-02-04T16:29:51.224049+09:00 0 [System] [MY-013172] [Server] Received SHUTDOWN from user <via user signal>. Shutting down mysqld (Version: 8.0.32).
+2023-02-04T16:29:52.668296+09:00 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.32)  MySQL Community Server - GPL.
+2023-02-04T16:29:54.680493+09:00 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
+2023-02-04T16:29:54.685128+09:00 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.32) starting as process 1
+2023-02-04T16:29:54.690731+09:00 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2023-02-04T16:29:54.702358+09:00 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-02-04T16:29:55.247901+09:00 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-02-04T16:29:55.576846+09:00 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-02-04T16:29:55.577749+09:00 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-02-04T16:29:55.673483+09:00 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060, socket: /var/run/mysqld/mysqlx.sock
+2023-02-04T16:29:55.673551+09:00 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.32'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2023-02-04T16:34:54.837241+09:00 0 [System] [MY-013172] [Server] Received SHUTDOWN from user <via user signal>. Shutting down mysqld (Version: 8.0.32).
+2023-02-04T16:34:55.454078+09:00 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.32)  MySQL Community Server - GPL.
+2023-02-04T16:35:14.239711+09:00 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
+2023-02-04T16:35:14.244083+09:00 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.32) starting as process 1
+2023-02-04T16:35:14.250294+09:00 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2023-02-04T16:35:14.263310+09:00 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-02-04T16:35:14.864208+09:00 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-02-04T16:35:15.164391+09:00 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-02-04T16:35:15.164646+09:00 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-02-04T16:35:15.293946+09:00 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060, socket: /var/run/mysqld/mysqlx.sock
+2023-02-04T16:35:15.294019+09:00 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.32'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2023-02-04T17:06:58.827100+09:00 0 [System] [MY-013172] [Server] Received SHUTDOWN from user <via user signal>. Shutting down mysqld (Version: 8.0.32).
+2023-02-04T17:06:59.835999+09:00 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.32)  MySQL Community Server - GPL.
+2023-02-04T17:09:10.103353+09:00 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
+2023-02-04T17:09:10.113966+09:00 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.32) starting as process 1
+2023-02-04T17:09:10.120911+09:00 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2023-02-04T17:09:10.133636+09:00 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-02-04T17:09:10.721763+09:00 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-02-04T17:09:11.038573+09:00 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-02-04T17:09:11.038837+09:00 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-02-04T17:09:11.136522+09:00 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060, socket: /var/run/mysqld/mysqlx.sock
+2023-02-04T17:09:11.136640+09:00 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.32'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2023-02-04T17:09:38.969586+09:00 0 [System] [MY-013172] [Server] Received SHUTDOWN from user <via user signal>. Shutting down mysqld (Version: 8.0.32).
+2023-02-04T17:09:40.520368+09:00 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.32)  MySQL Community Server - GPL.
+2023-02-04T17:12:23.524034+09:00 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
+2023-02-04T17:12:23.528877+09:00 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.32) starting as process 1
+2023-02-04T17:12:23.534754+09:00 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2023-02-04T17:12:23.547189+09:00 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-02-04T17:12:24.178346+09:00 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-02-04T17:12:24.646599+09:00 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-02-04T17:12:24.646812+09:00 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-02-04T17:12:24.753785+09:00 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.32'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2023-02-04T17:12:24.753784+09:00 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060, socket: /var/run/mysqld/mysqlx.sock
